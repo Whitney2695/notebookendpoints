@@ -1,0 +1,10 @@
+POST http://localhost:5050/note/create-new
+content-type: application/application/json
+
+###get all notes
+POST http://localhost:5050/notes/all
+content-type: application/application/json
+
+###update note
+POST http://localhost:5050/notes/update
+content-type: application/application/json
